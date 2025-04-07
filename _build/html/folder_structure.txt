@@ -1,0 +1,329 @@
+列出磁碟區 Windows 的資料夾 PATH
+磁碟區序號為 4217-2FC1
+C:.
+|   .buildinfo
+|   folder_structure.txt
+|   genindex.html
+|   index.html
+|   intro.html
+|   markdown-notebooks.html
+|   markdown.html
+|   notebooks.html
+|   objects.inv
+|   search.html
+|   searchindex.js
+|   
++---reports
+|       notebooks.err.log
+|       
++---_sources
+|       intro.md
+|       markdown-notebooks.md
+|       markdown.md
+|       notebooks.ipynb
+|       
++---_sphinx_design_static
+|       design-tabs.js
+|       sphinx-design.min.css
+|       
+\---_static
+    |   basic.css
+    |   check-solid.svg
+    |   clipboard.min.js
+    |   copy-button.svg
+    |   copybutton.css
+    |   copybutton.js
+    |   copybutton_funcs.js
+    |   design-tabs.js
+    |   doctools.js
+    |   documentation_options.js
+    |   file.png
+    |   language_data.js
+    |   logo.png
+    |   minus.png
+    |   mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css
+    |   play-solid.svg
+    |   plus.png
+    |   pygments.css
+    |   sbt-webpack-macros.html
+    |   searchtools.js
+    |   sphinx-design.min.css
+    |   sphinx-thebe.css
+    |   sphinx-thebe.js
+    |   sphinx_highlight.js
+    |   togglebutton.css
+    |   togglebutton.js
+    |   webpack-macros.html
+    |   
+    +---images
+    |       logo_binder.svg
+    |       logo_colab.png
+    |       logo_deepnote.svg
+    |       logo_jupyterhub.svg
+    |       
+    +---locales
+    |   +---ar
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---bg
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---bn
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---ca
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---cs
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---da
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---de
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---el
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---eo
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---es
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---et
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---fi
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---fr
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---hr
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---id
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---it
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---iw
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---ja
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---ko
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---lt
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---lv
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---ml
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---mr
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---ms
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---nl
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---no
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---pl
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---pt
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---ro
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---ru
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---sk
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---sl
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---sr
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---sv
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---ta
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---te
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---tg
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---th
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---tl
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---tr
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---uk
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---ur
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---vi
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   +---zh_CN
+    |   |   \---LC_MESSAGES
+    |   |           booktheme.mo
+    |   |           booktheme.po
+    |   |           
+    |   \---zh_TW
+    |       \---LC_MESSAGES
+    |               booktheme.mo
+    |               booktheme.po
+    |               
+    +---scripts
+    |       bootstrap.js
+    |       bootstrap.js.LICENSE.txt
+    |       bootstrap.js.map
+    |       pydata-sphinx-theme.js
+    |       pydata-sphinx-theme.js.map
+    |       sphinx-book-theme.js
+    |       sphinx-book-theme.js.map
+    |       
+    +---styles
+    |       bootstrap.css
+    |       bootstrap.css.map
+    |       pydata-sphinx-theme.css
+    |       pydata-sphinx-theme.css.map
+    |       sphinx-book-theme.css
+    |       sphinx-book-theme.css.map
+    |       theme.css
+    |       
+    \---vendor
+        \---fontawesome
+            \---6.5.2
+                |   LICENSE.txt
+                |   
+                +---css
+                |       all.min.css
+                |       
+                +---js
+                |       all.min.js
+                |       all.min.js.LICENSE.txt
+                |       
+                \---webfonts
+                        fa-brands-400.ttf
+                        fa-brands-400.woff2
+                        fa-regular-400.ttf
+                        fa-regular-400.woff2
+                        fa-solid-900.ttf
+                        fa-solid-900.woff2
+                        fa-v4compatibility.ttf
+                        fa-v4compatibility.woff2
+                        
