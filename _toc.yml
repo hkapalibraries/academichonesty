@@ -3,8 +3,18 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: notebooks
-  sections:
-  - file: citestyles
-  - file: reftools
+parts:
+  - caption: Citing Sources
+    chapters:
+    - file: citation
+    - file: citestyles
+    - file: reftools
+    - file: citequiz
+  - caption: Library Support
+    chapters:
+    - file: librarysupport
+    - file: libraryessential
+
+
+
+  
