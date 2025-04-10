@@ -2,18 +2,21 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: intro.ipynb
 parts:
+  - caption: Academic Honesty
+    chapters:
+    - file: academichonesty.ipynb
   - caption: Citing Sources
     chapters:
-    - file: citation
-    - file: citestyles
-    - file: reftools
-    - file: citequiz
+    - file: citation.ipynb
+    - file: citestyles.ipynb
+    - file: reftools.ipynb
+    - file: citequiz.ipynb
   - caption: Library Support
     chapters:
-    - file: librarysupport
-    - file: libraryessential
+    - file: librarysupport.ipynb
+    - file: libraryessential.ipynb
 
 
 
