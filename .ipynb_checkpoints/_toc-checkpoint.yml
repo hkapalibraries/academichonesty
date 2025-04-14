@@ -4,12 +4,14 @@
 format: jb-book
 root: intro.ipynb
 parts:
+  - caption: Academic Honesty
+    chapters:
+    - file: academichonesty.ipynb
   - caption: Citing Sources
     chapters:
     - file: citation.ipynb
     - file: citestyles.ipynb
     - file: reftools.ipynb
-    - file: citequiz.ipynb
   - caption: Library Support
     chapters:
     - file: librarysupport.ipynb

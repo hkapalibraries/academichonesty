@@ -12,7 +12,6 @@ parts:
     - file: citation.ipynb
     - file: citestyles.ipynb
     - file: reftools.ipynb
-    - file: citequiz.ipynb
   - caption: Library Support
     chapters:
     - file: librarysupport.ipynb
